@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f07b62b3-719e-409f-a29c-3ccb8b68023c" name="Default Changelist" comment="" />
+    <list default="true" id="f07b62b3-719e-409f-a29c-3ccb8b68023c" name="Default Changelist" comment="25jun">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +85,19 @@
       <option name="presentableId" value="Default" />
       <updated>1591188224597</updated>
     </task>
+    <task id="LOCAL-00001" summary="25jun">
+      <created>1593101594080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593101594080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25jun" />
+    <option name="LAST_COMMIT_MESSAGE" value="25jun" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591188834754">
@@ -94,10 +108,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591192173110" />
+    <state x="621" y="310" key="Github.ShareDialog" timestamp="1593101289939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="621" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1593101289939" />
+    <state x="515" y="117" key="Github.UntrackedFilesDialog" timestamp="1593101312260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593101312260" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1591190893621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591190893621" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593101332934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593101332934" />
     <state x="209" y="73" key="new project wizard" timestamp="1591192422710">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
